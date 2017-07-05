@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="tabSelectedTextColor">#ffffff</color>
+    <color name="tabTextColor">#737373</color>
+    <color name="write">#ffffff</color>
+    <color name="statusbar">#b2c3f6</color>
+    <color name="toolbarbg">#b2c3f6</color>
+    <color name="navigationbg">#9dc9f5</color>
+
+
 </resources>

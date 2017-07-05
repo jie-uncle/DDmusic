@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DDmusic</string>
+    <string name="welcome_jump">跳过</string>
+    <string name="seek">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="fragment_list">
+        <item>音乐</item>
+        <item>MV</item>
+        <item>直播</item>
+    </array>
 </resources>
